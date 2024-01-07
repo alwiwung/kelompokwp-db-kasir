@@ -258,7 +258,7 @@
            </div>
            <div class="modal-footer justify-content-between">
              <button type="button" class="btn btn-default btn-flat" data-dismiss="modal">Close</button>
-             <a href="<?= base_url('Produk/DeleteData/'. $value['id_satuan']) ?>" class="btn btn-danger btn-flat">Delete</a>
+             <a href="<?= base_url('Produk/DeleteData/'. $value['id_produk']) ?>" class="btn btn-danger btn-flat">Delete</a>
            </div>
          </div>
          <!-- /.modal-content -->
