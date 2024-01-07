@@ -1,0 +1,347 @@
+INFO - 2024-01-07 18:48:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 18:48:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 18:48:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 18:49:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 18:49:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-07 18:49:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 18:49:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 18:50:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 18:50:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 18:50:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 18:50:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 18:50:38 --> Cart Class Initialized
+INFO - 2024-01-07 18:50:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 18:50:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 18:51:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 18:51:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelProduk is deprecated in APPPATH\Controllers\Produk.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-07 18:51:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelKategori is deprecated in APPPATH\Controllers\Produk.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-07 18:51:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelSatuan is deprecated in APPPATH\Controllers\Produk.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 18:51:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 18:51:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 18:51:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 18:51:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Satuan::$ModelSatuan is deprecated in APPPATH\Controllers\Satuan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Satuan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 18:52:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 18:52:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\User::$ModelUser is deprecated in APPPATH\Controllers\User.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\User->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 18:52:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 18:52:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelProduk is deprecated in APPPATH\Controllers\Laporan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-07 18:52:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelAdmin is deprecated in APPPATH\Controllers\Laporan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-07 18:52:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelLaporan is deprecated in APPPATH\Controllers\Laporan.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 18:52:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 18:52:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelProduk is deprecated in APPPATH\Controllers\Laporan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-07 18:52:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelAdmin is deprecated in APPPATH\Controllers\Laporan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-07 18:52:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelLaporan is deprecated in APPPATH\Controllers\Laporan.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 18:52:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 18:52:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelProduk is deprecated in APPPATH\Controllers\Laporan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-07 18:52:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelAdmin is deprecated in APPPATH\Controllers\Laporan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-07 18:52:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelLaporan is deprecated in APPPATH\Controllers\Laporan.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 18:53:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 18:53:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelProduk is deprecated in APPPATH\Controllers\Laporan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-07 18:53:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelAdmin is deprecated in APPPATH\Controllers\Laporan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-07 18:53:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelLaporan is deprecated in APPPATH\Controllers\Laporan.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 18:53:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 18:53:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelProduk is deprecated in APPPATH\Controllers\Laporan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-07 18:53:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelAdmin is deprecated in APPPATH\Controllers\Laporan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-07 18:53:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelLaporan is deprecated in APPPATH\Controllers\Laporan.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 18:53:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 18:53:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelProduk is deprecated in APPPATH\Controllers\Laporan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-07 18:53:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelAdmin is deprecated in APPPATH\Controllers\Laporan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-07 18:53:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelLaporan is deprecated in APPPATH\Controllers\Laporan.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 18:53:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 18:53:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelProduk is deprecated in APPPATH\Controllers\Laporan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-07 18:53:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelAdmin is deprecated in APPPATH\Controllers\Laporan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-07 18:53:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelLaporan is deprecated in APPPATH\Controllers\Laporan.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 18:53:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 18:53:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelProduk is deprecated in APPPATH\Controllers\Laporan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-07 18:53:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelAdmin is deprecated in APPPATH\Controllers\Laporan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-07 18:53:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelLaporan is deprecated in APPPATH\Controllers\Laporan.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 18:54:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 18:54:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelProduk is deprecated in APPPATH\Controllers\Laporan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-07 18:54:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelAdmin is deprecated in APPPATH\Controllers\Laporan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-07 18:54:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelLaporan is deprecated in APPPATH\Controllers\Laporan.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 18:54:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 18:54:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelProduk is deprecated in APPPATH\Controllers\Laporan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-07 18:54:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelAdmin is deprecated in APPPATH\Controllers\Laporan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-07 18:54:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelLaporan is deprecated in APPPATH\Controllers\Laporan.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 18:54:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 18:54:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 18:55:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 18:55:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelProduk is deprecated in APPPATH\Controllers\Produk.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-07 18:55:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelKategori is deprecated in APPPATH\Controllers\Produk.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-07 18:55:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelSatuan is deprecated in APPPATH\Controllers\Produk.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 18:56:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 18:56:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelProduk is deprecated in APPPATH\Controllers\Laporan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-07 18:56:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelAdmin is deprecated in APPPATH\Controllers\Laporan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-07 18:56:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelLaporan is deprecated in APPPATH\Controllers\Laporan.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 19:09:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 19:09:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 19:09:04 --> Cart Class Initialized
+INFO - 2024-01-07 19:09:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 19:09:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 19:09:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 19:09:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 19:09:35 --> Cart Class Initialized
+INFO - 2024-01-07 19:09:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 19:09:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 19:09:36 --> Cart Class Initialized
+INFO - 2024-01-07 19:09:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 19:09:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 19:10:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 19:10:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 19:10:37 --> Cart Class Initialized
+INFO - 2024-01-07 19:10:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 19:10:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 19:10:37 --> Cart Class Initialized
+INFO - 2024-01-07 19:14:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 19:14:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-07 19:14:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 19:14:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 19:14:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 19:14:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 19:15:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-07 19:15:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-07 19:15:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-07 19:15:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

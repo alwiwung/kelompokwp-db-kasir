@@ -1,0 +1,1637 @@
+INFO - 2023-12-24 11:07:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-24 11:07:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:07:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:07:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:07:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:07:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-24 11:07:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:07:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:07:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-24 11:07:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:07:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:07:32 --> Cart Class Initialized
+INFO - 2023-12-24 11:07:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:07:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:07:32 --> Cart Class Initialized
+INFO - 2023-12-24 11:10:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:10:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:10:37 --> Cart Class Initialized
+INFO - 2023-12-24 11:10:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:10:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:13:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:13:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:13:45 --> Cart Class Initialized
+INFO - 2023-12-24 11:16:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:16:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:16:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-24 11:20:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:20:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:20:31 --> Cart Class Initialized
+INFO - 2023-12-24 11:22:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:22:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:22:05 --> Cart Class Initialized
+INFO - 2023-12-24 11:22:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:22:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:22:07 --> Cart Class Initialized
+ERROR - 2023-12-24 11:22:07 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+INFO - 2023-12-24 11:22:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:22:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:22:07 --> Cart Class Initialized
+INFO - 2023-12-24 11:22:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:22:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:22:09 --> Cart Class Initialized
+ERROR - 2023-12-24 11:22:09 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+INFO - 2023-12-24 11:22:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:22:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:22:10 --> Cart Class Initialized
+INFO - 2023-12-24 11:22:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:22:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:22:12 --> Cart Class Initialized
+ERROR - 2023-12-24 11:22:12 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+INFO - 2023-12-24 11:22:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:22:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:22:12 --> Cart Class Initialized
+INFO - 2023-12-24 11:22:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:22:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:22:28 --> Cart Class Initialized
+ERROR - 2023-12-24 11:22:28 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+INFO - 2023-12-24 11:22:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:22:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:22:29 --> Cart Class Initialized
+INFO - 2023-12-24 11:22:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:22:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:22:31 --> Cart Class Initialized
+ERROR - 2023-12-24 11:22:31 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+INFO - 2023-12-24 11:22:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:22:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:22:31 --> Cart Class Initialized
+INFO - 2023-12-24 11:22:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:22:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:22:49 --> Cart Class Initialized
+ERROR - 2023-12-24 11:22:49 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+INFO - 2023-12-24 11:22:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:22:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:22:49 --> Cart Class Initialized
+INFO - 2023-12-24 11:22:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:22:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:22:52 --> Cart Class Initialized
+ERROR - 2023-12-24 11:22:52 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+INFO - 2023-12-24 11:22:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:22:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:22:53 --> Cart Class Initialized
+INFO - 2023-12-24 11:24:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:24:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:24:26 --> Cart Class Initialized
+INFO - 2023-12-24 11:24:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:24:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:24:27 --> Cart Class Initialized
+ERROR - 2023-12-24 11:24:27 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+INFO - 2023-12-24 11:24:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:24:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:24:28 --> Cart Class Initialized
+INFO - 2023-12-24 11:24:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:24:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:24:29 --> Cart Class Initialized
+ERROR - 2023-12-24 11:24:29 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+INFO - 2023-12-24 11:24:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:24:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:24:30 --> Cart Class Initialized
+INFO - 2023-12-24 11:31:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:31:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:31:11 --> Cart Class Initialized
+INFO - 2023-12-24 11:31:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:31:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:31:14 --> Cart Class Initialized
+ERROR - 2023-12-24 11:31:14 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+INFO - 2023-12-24 11:31:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:31:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:31:14 --> Cart Class Initialized
+INFO - 2023-12-24 11:31:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:31:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:31:17 --> Cart Class Initialized
+ERROR - 2023-12-24 11:31:17 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+INFO - 2023-12-24 11:31:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:31:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:31:17 --> Cart Class Initialized
+INFO - 2023-12-24 11:32:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:32:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:32:54 --> Cart Class Initialized
+INFO - 2023-12-24 11:32:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:32:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:32:57 --> Cart Class Initialized
+ERROR - 2023-12-24 11:32:57 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+INFO - 2023-12-24 11:32:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:32:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:32:58 --> Cart Class Initialized
+INFO - 2023-12-24 11:33:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:33:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:33:00 --> Cart Class Initialized
+ERROR - 2023-12-24 11:33:00 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+INFO - 2023-12-24 11:33:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:33:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:33:00 --> Cart Class Initialized
+INFO - 2023-12-24 11:34:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:34:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:34:26 --> Cart Class Initialized
+INFO - 2023-12-24 11:35:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:35:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:35:32 --> Cart Class Initialized
+INFO - 2023-12-24 11:35:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:35:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:35:39 --> Cart Class Initialized
+ERROR - 2023-12-24 11:35:39 --> Invalid product ID.  The product ID can only contain alpha-numeric characters, dashes, and underscores
+INFO - 2023-12-24 11:35:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:35:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:35:39 --> Cart Class Initialized
+INFO - 2023-12-24 11:36:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:36:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:36:24 --> Cart Class Initialized
+INFO - 2023-12-24 11:48:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:48:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:48:54 --> Cart Class Initialized
+INFO - 2023-12-24 11:49:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:49:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:49:45 --> Cart Class Initialized
+INFO - 2023-12-24 11:52:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:52:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:52:32 --> Cart Class Initialized
+INFO - 2023-12-24 11:53:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:53:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:54:00 --> Cart Class Initialized
+INFO - 2023-12-24 11:56:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 11:56:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 11:56:15 --> Cart Class Initialized
+INFO - 2023-12-24 12:00:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 12:00:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 12:00:55 --> Cart Class Initialized
+INFO - 2023-12-24 12:04:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 12:04:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 12:04:21 --> Cart Class Initialized
+INFO - 2023-12-24 12:04:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 12:04:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 12:04:55 --> Cart Class Initialized
+INFO - 2023-12-24 12:09:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 12:09:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 12:09:59 --> Cart Class Initialized
+INFO - 2023-12-24 12:14:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 12:14:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 12:14:40 --> Cart Class Initialized
+INFO - 2023-12-24 12:14:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 12:14:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 12:14:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-24 12:15:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 12:15:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelProduk is deprecated in APPPATH\Controllers\Produk.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-24 12:15:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelKategori is deprecated in APPPATH\Controllers\Produk.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-24 12:15:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelSatuan is deprecated in APPPATH\Controllers\Produk.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 12:15:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-24 12:15:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 12:15:48 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 12:15:48 --> Cart Class Initialized
+INFO - 2023-12-24 12:21:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 12:21:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 12:21:55 --> Cart Class Initialized
+INFO - 2023-12-24 12:22:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 12:22:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 12:22:35 --> Cart Class Initialized
+INFO - 2023-12-24 12:31:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 12:31:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 12:31:01 --> Cart Class Initialized
+INFO - 2023-12-24 12:36:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 12:36:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 12:36:52 --> Cart Class Initialized
+INFO - 2023-12-24 12:39:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 12:39:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 12:39:05 --> Cart Class Initialized
+INFO - 2023-12-24 12:39:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 12:39:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 12:39:14 --> Cart Class Initialized
+ERROR - 2023-12-24 12:39:14 --> An invalid name was submitted as the product name:  The name can only contain alpha-numeric characters, dashes, underscores, colons, and spaces
+INFO - 2023-12-24 12:39:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 12:39:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 12:39:15 --> Cart Class Initialized
+INFO - 2023-12-24 12:39:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 12:39:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 12:39:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 12:39:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 12:39:50 --> Cart Class Initialized
+INFO - 2023-12-24 12:39:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 12:39:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 12:39:51 --> Cart Class Initialized
+INFO - 2023-12-24 12:40:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 12:40:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 12:40:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 12:40:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 12:40:05 --> Cart Class Initialized
+INFO - 2023-12-24 12:40:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 12:40:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 12:40:05 --> Cart Class Initialized
+INFO - 2023-12-24 12:40:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 12:40:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 12:40:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 12:40:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 12:40:13 --> Cart Class Initialized
+INFO - 2023-12-24 12:40:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 12:40:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 12:40:13 --> Cart Class Initialized
+INFO - 2023-12-24 12:43:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 12:43:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 12:43:05 --> Cart Class Initialized
+INFO - 2023-12-24 12:43:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 12:43:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 12:43:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 12:43:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 12:43:13 --> Cart Class Initialized
+INFO - 2023-12-24 12:43:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 12:43:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 12:43:13 --> Cart Class Initialized
+INFO - 2023-12-24 13:28:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 13:28:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 13:28:12 --> Cart Class Initialized
+INFO - 2023-12-24 13:31:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 13:31:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 13:31:23 --> Cart Class Initialized
+INFO - 2023-12-24 13:33:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 13:33:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 13:33:00 --> Cart Class Initialized
+INFO - 2023-12-24 13:33:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 13:33:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 13:33:10 --> Cart Class Initialized
+INFO - 2023-12-24 13:33:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 13:33:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 13:33:11 --> Cart Class Initialized
+INFO - 2023-12-24 13:52:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 13:52:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 13:52:58 --> Cart Class Initialized
+INFO - 2023-12-24 13:55:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 13:55:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 13:55:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-24 13:55:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 13:55:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelProduk is deprecated in APPPATH\Controllers\Produk.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-24 13:55:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelKategori is deprecated in APPPATH\Controllers\Produk.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-24 13:55:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelSatuan is deprecated in APPPATH\Controllers\Produk.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 13:55:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-24 13:56:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 13:56:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelProduk is deprecated in APPPATH\Controllers\Produk.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-24 13:56:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelKategori is deprecated in APPPATH\Controllers\Produk.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-24 13:56:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelSatuan is deprecated in APPPATH\Controllers\Produk.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 13:56:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 13:56:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelProduk is deprecated in APPPATH\Controllers\Produk.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-24 13:56:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelKategori is deprecated in APPPATH\Controllers\Produk.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-24 13:56:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelSatuan is deprecated in APPPATH\Controllers\Produk.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 13:56:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-24 13:56:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 13:56:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 13:56:16 --> Cart Class Initialized
+INFO - 2023-12-24 13:56:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 13:56:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 13:56:20 --> Cart Class Initialized
+INFO - 2023-12-24 13:57:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 13:57:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 13:57:17 --> Cart Class Initialized
+INFO - 2023-12-24 13:57:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 13:57:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 13:57:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 13:57:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 13:57:25 --> Cart Class Initialized
+INFO - 2023-12-24 13:57:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 13:57:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 13:57:25 --> Cart Class Initialized
+INFO - 2023-12-24 13:57:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 13:57:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 13:57:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 13:57:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 13:57:34 --> Cart Class Initialized
+INFO - 2023-12-24 13:57:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 13:57:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 13:57:34 --> Cart Class Initialized
+INFO - 2023-12-24 13:57:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 13:57:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 13:57:35 --> Cart Class Initialized
+INFO - 2023-12-24 13:57:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 13:57:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 13:57:35 --> Cart Class Initialized
+INFO - 2023-12-24 13:57:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 13:57:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 13:57:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 13:57:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 13:57:59 --> Cart Class Initialized
+INFO - 2023-12-24 13:58:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 13:58:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 13:58:00 --> Cart Class Initialized
+INFO - 2023-12-24 14:05:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 14:05:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:05:18 --> Cart Class Initialized
+CRITICAL - 2023-12-24 14:05:18 --> Undefined constant "condition"
+in APPPATH\Views\v_penjualan.php on line 319.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_penjualan', [], true)
+ 4 APPPATH\Controllers\Penjualan.php(26): view('v_penjualan', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Penjualan->index()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:06:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 14:06:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:06:05 --> Cart Class Initialized
+INFO - 2023-12-24 14:06:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 14:06:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:06:07 --> Cart Class Initialized
+INFO - 2023-12-24 14:06:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 14:06:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:06:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 14:06:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:06:16 --> Cart Class Initialized
+INFO - 2023-12-24 14:06:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 14:06:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:06:16 --> Cart Class Initialized
+INFO - 2023-12-24 14:06:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 14:06:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:06:19 --> Cart Class Initialized
+INFO - 2023-12-24 14:06:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 14:06:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:06:19 --> Cart Class Initialized
+INFO - 2023-12-24 14:23:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 14:23:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:23:34 --> Cart Class Initialized
+INFO - 2023-12-24 14:23:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 14:23:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:23:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 14:23:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:23:52 --> Cart Class Initialized
+INFO - 2023-12-24 14:23:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 14:23:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:23:52 --> Cart Class Initialized
+INFO - 2023-12-24 14:23:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 14:23:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:23:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 14:23:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:23:59 --> Cart Class Initialized
+INFO - 2023-12-24 14:23:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 14:23:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:23:59 --> Cart Class Initialized
+INFO - 2023-12-24 14:24:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 14:24:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:24:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 14:24:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:24:09 --> Cart Class Initialized
+INFO - 2023-12-24 14:24:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 14:24:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:24:09 --> Cart Class Initialized
+INFO - 2023-12-24 14:24:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 14:24:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 14:24:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:24:25 --> Cart Class Initialized
+INFO - 2023-12-24 14:24:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 14:24:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:24:25 --> Cart Class Initialized
+INFO - 2023-12-24 14:24:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 14:24:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:24:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-24 14:24:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 14:24:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelProduk is deprecated in APPPATH\Controllers\Produk.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-24 14:24:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelKategori is deprecated in APPPATH\Controllers\Produk.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-24 14:24:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelSatuan is deprecated in APPPATH\Controllers\Produk.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:24:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 14:24:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelProduk is deprecated in APPPATH\Controllers\Produk.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-24 14:24:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelKategori is deprecated in APPPATH\Controllers\Produk.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-24 14:24:37 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelSatuan is deprecated in APPPATH\Controllers\Produk.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:24:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-24 14:25:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 14:25:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelProduk is deprecated in APPPATH\Controllers\Produk.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-24 14:25:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelKategori is deprecated in APPPATH\Controllers\Produk.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2023-12-24 14:25:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelSatuan is deprecated in APPPATH\Controllers\Produk.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:25:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-24 14:25:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 14:25:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:25:23 --> Cart Class Initialized
+INFO - 2023-12-24 14:25:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 14:25:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:25:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 14:25:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:25:31 --> Cart Class Initialized
+INFO - 2023-12-24 14:25:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 14:25:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:25:31 --> Cart Class Initialized
+INFO - 2023-12-24 14:34:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 14:34:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:34:20 --> Cart Class Initialized
+INFO - 2023-12-24 14:37:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 14:37:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:37:17 --> Cart Class Initialized
+INFO - 2023-12-24 14:40:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 14:40:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 14:40:57 --> Cart Class Initialized
+INFO - 2023-12-24 15:21:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 15:21:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 15:21:53 --> Cart Class Initialized
+INFO - 2023-12-24 15:44:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 15:44:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 15:44:03 --> Cart Class Initialized
+INFO - 2023-12-24 15:47:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 15:47:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 15:47:22 --> Cart Class Initialized
+INFO - 2023-12-24 15:49:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 15:49:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 15:49:54 --> Cart Class Initialized
+INFO - 2023-12-24 15:51:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 15:51:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 15:51:46 --> Cart Class Initialized
+INFO - 2023-12-24 15:52:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 15:52:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 15:52:13 --> Cart Class Initialized
+INFO - 2023-12-24 15:55:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 15:55:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 15:55:47 --> Cart Class Initialized
+INFO - 2023-12-24 15:58:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 15:58:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 15:58:41 --> Cart Class Initialized
+INFO - 2023-12-24 16:01:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 16:01:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 16:01:06 --> Cart Class Initialized
+INFO - 2023-12-24 16:01:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 16:01:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 16:01:35 --> Cart Class Initialized
+INFO - 2023-12-24 16:21:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 16:21:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 16:21:15 --> Cart Class Initialized
+INFO - 2023-12-24 16:21:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 16:21:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 16:21:30 --> Cart Class Initialized
+INFO - 2023-12-24 16:22:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 16:22:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 16:22:25 --> Cart Class Initialized
+INFO - 2023-12-24 16:23:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 16:23:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 16:23:11 --> Cart Class Initialized
+INFO - 2023-12-24 16:25:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 16:25:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 16:25:45 --> Cart Class Initialized
+INFO - 2023-12-24 16:32:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 16:32:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 16:32:38 --> Cart Class Initialized
+INFO - 2023-12-24 16:35:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 16:35:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 16:35:39 --> Cart Class Initialized
+INFO - 2023-12-24 16:36:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 16:36:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 16:36:58 --> Cart Class Initialized
+INFO - 2023-12-24 16:40:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 16:40:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 16:40:27 --> Cart Class Initialized
+INFO - 2023-12-24 16:41:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 16:41:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 16:41:19 --> Cart Class Initialized
+INFO - 2023-12-24 16:41:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 16:41:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 16:41:21 --> Cart Class Initialized
+INFO - 2023-12-24 16:41:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 16:41:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 16:41:21 --> Cart Class Initialized
+INFO - 2023-12-24 16:41:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 16:41:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 16:41:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 16:41:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 16:41:30 --> Cart Class Initialized
+INFO - 2023-12-24 16:41:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 16:41:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 16:41:31 --> Cart Class Initialized
+INFO - 2023-12-24 16:42:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 16:42:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 16:42:22 --> Cart Class Initialized
+INFO - 2023-12-24 16:43:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 16:43:01 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 16:43:01 --> Cart Class Initialized
+INFO - 2023-12-24 16:45:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 16:45:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 16:45:20 --> Cart Class Initialized
+INFO - 2023-12-24 16:47:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 16:47:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 16:47:58 --> Cart Class Initialized
+INFO - 2023-12-24 19:18:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:18:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:18:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:18:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:18:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-24 19:18:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:18:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:18:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-24 19:18:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:18:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:18:34 --> Cart Class Initialized
+INFO - 2023-12-24 19:44:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:44:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:44:53 --> Cart Class Initialized
+INFO - 2023-12-24 19:55:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:55:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:55:14 --> Cart Class Initialized
+INFO - 2023-12-24 19:55:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:55:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:55:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:55:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:55:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:55:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:55:28 --> Cart Class Initialized
+INFO - 2023-12-24 19:55:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:55:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:55:29 --> Cart Class Initialized
+INFO - 2023-12-24 19:55:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:55:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:55:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:55:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:55:39 --> Cart Class Initialized
+INFO - 2023-12-24 19:55:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:55:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:55:40 --> Cart Class Initialized
+INFO - 2023-12-24 19:55:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:55:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:55:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:55:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:55:45 --> Cart Class Initialized
+INFO - 2023-12-24 19:55:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:55:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:55:46 --> Cart Class Initialized
+INFO - 2023-12-24 19:55:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:55:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-24 19:55:49 --> Undefined variable $rowid
+in APPPATH\Controllers\Penjualan.php on line 84.
+ 1 APPPATH\Controllers\Penjualan.php(84): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $rowid', 'C:\\xampp\\htdocs\\kasir-wp\\app\\Controllers\\Penjualan.php', 84)
+ 2 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Penjualan->RemoveItemCart('219c790ea652d106df73bcdeedc8c86b')
+ 3 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 4 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:56:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:56:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:56:15 --> Cart Class Initialized
+INFO - 2023-12-24 19:56:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:56:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:56:16 --> Cart Class Initialized
+INFO - 2023-12-24 19:56:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:56:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:56:20 --> Cart Class Initialized
+INFO - 2023-12-24 19:56:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:56:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:56:20 --> Cart Class Initialized
+INFO - 2023-12-24 19:57:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:57:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:57:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:57:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:57:17 --> Cart Class Initialized
+INFO - 2023-12-24 19:57:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:57:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:57:17 --> Cart Class Initialized
+INFO - 2023-12-24 19:57:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:57:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:57:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:57:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:57:23 --> Cart Class Initialized
+INFO - 2023-12-24 19:57:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:57:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:57:23 --> Cart Class Initialized
+INFO - 2023-12-24 19:57:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:57:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:57:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:57:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:57:29 --> Cart Class Initialized
+INFO - 2023-12-24 19:57:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:57:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:57:29 --> Cart Class Initialized
+INFO - 2023-12-24 19:57:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:57:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:57:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:57:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:57:35 --> Cart Class Initialized
+INFO - 2023-12-24 19:57:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:57:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:57:35 --> Cart Class Initialized
+INFO - 2023-12-24 19:57:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:57:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:57:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:57:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:57:45 --> Cart Class Initialized
+INFO - 2023-12-24 19:57:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:57:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:57:46 --> Cart Class Initialized
+INFO - 2023-12-24 19:57:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:57:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:57:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:57:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:57:55 --> Cart Class Initialized
+INFO - 2023-12-24 19:57:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:57:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:57:55 --> Cart Class Initialized
+INFO - 2023-12-24 19:58:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:58:03 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:58:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:58:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:58:04 --> Cart Class Initialized
+INFO - 2023-12-24 19:58:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:58:04 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:58:04 --> Cart Class Initialized
+INFO - 2023-12-24 19:58:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:58:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:58:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:58:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:58:19 --> Cart Class Initialized
+INFO - 2023-12-24 19:58:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:58:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:58:19 --> Cart Class Initialized
+INFO - 2023-12-24 19:58:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:58:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:58:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:58:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:58:26 --> Cart Class Initialized
+INFO - 2023-12-24 19:58:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:58:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:58:26 --> Cart Class Initialized
+INFO - 2023-12-24 19:58:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:58:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:58:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:58:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:58:36 --> Cart Class Initialized
+INFO - 2023-12-24 19:58:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:58:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:58:36 --> Cart Class Initialized
+INFO - 2023-12-24 19:58:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:58:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:58:56 --> Cart Class Initialized
+INFO - 2023-12-24 19:58:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:58:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:58:57 --> Cart Class Initialized
+INFO - 2023-12-24 19:58:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:58:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:58:59 --> Cart Class Initialized
+INFO - 2023-12-24 19:58:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:58:59 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:58:59 --> Cart Class Initialized
+INFO - 2023-12-24 19:59:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:59:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:59:06 --> Cart Class Initialized
+INFO - 2023-12-24 19:59:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:59:06 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:59:06 --> Cart Class Initialized
+INFO - 2023-12-24 19:59:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:59:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:59:14 --> Cart Class Initialized
+INFO - 2023-12-24 19:59:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:59:14 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:59:14 --> Cart Class Initialized
+INFO - 2023-12-24 19:59:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:59:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:59:17 --> Cart Class Initialized
+INFO - 2023-12-24 19:59:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2023-12-24 19:59:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-24 19:59:17 --> Cart Class Initialized

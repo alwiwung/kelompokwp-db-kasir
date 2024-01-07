@@ -1,0 +1,1549 @@
+CRITICAL - 2024-01-04 11:10:06 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 218.
+ 1 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-01-04 11:10:09 --> Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\kasir-wp\system\Helpers\number_helper.php:136
+Stack trace:
+#0 C:\xampp\htdocs\kasir-wp\system\Helpers\number_helper.php(55): format_number(6.0, 2, NULL, Array)
+#1 C:\xampp\htdocs\kasir-wp\system\Debug\BaseExceptionHandler.php(145): number_to_size(6.0, 2)
+#2 C:\xampp\htdocs\kasir-wp\app\Views\errors\html\error_exception.php(361): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 C:\xampp\htdocs\kasir-wp\system\Debug\BaseExceptionHandler.php(241): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\kasir-wp\system\Debug\BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 C:\xampp\htdocs\kasir-wp\system\Debug\ExceptionHandler.php(112): CodeIgniter\Debug\BaseExceptionHandler->render(Object(Error), 500, 'C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\kasir-wp\system\Debug\Exceptions.php(148): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#8 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 C:\xampp\htdocs\kasir-wp\public\index.php(67): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\Helpers\number_helper.php on line 136.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-01-04 11:10:18 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 218.
+ 1 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-01-04 11:10:18 --> Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\kasir-wp\system\Helpers\number_helper.php:136
+Stack trace:
+#0 C:\xampp\htdocs\kasir-wp\system\Helpers\number_helper.php(55): format_number(6.0, 2, NULL, Array)
+#1 C:\xampp\htdocs\kasir-wp\system\Debug\BaseExceptionHandler.php(145): number_to_size(6.0, 2)
+#2 C:\xampp\htdocs\kasir-wp\app\Views\errors\html\error_exception.php(361): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 C:\xampp\htdocs\kasir-wp\system\Debug\BaseExceptionHandler.php(241): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\kasir-wp\system\Debug\BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 C:\xampp\htdocs\kasir-wp\system\Debug\ExceptionHandler.php(112): CodeIgniter\Debug\BaseExceptionHandler->render(Object(Error), 500, 'C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\kasir-wp\system\Debug\Exceptions.php(148): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#8 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 C:\xampp\htdocs\kasir-wp\public\index.php(67): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\Helpers\number_helper.php on line 136.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-01-04 11:12:53 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 218.
+ 1 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-01-04 11:12:53 --> Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\kasir-wp\system\Helpers\number_helper.php:136
+Stack trace:
+#0 C:\xampp\htdocs\kasir-wp\system\Helpers\number_helper.php(55): format_number(10.0, 2, NULL, Array)
+#1 C:\xampp\htdocs\kasir-wp\system\Debug\BaseExceptionHandler.php(145): number_to_size(10.0, 2)
+#2 C:\xampp\htdocs\kasir-wp\app\Views\errors\html\error_exception.php(361): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(10485760)
+#3 C:\xampp\htdocs\kasir-wp\system\Debug\BaseExceptionHandler.php(241): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\kasir-wp\system\Debug\BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 C:\xampp\htdocs\kasir-wp\system\Debug\ExceptionHandler.php(112): CodeIgniter\Debug\BaseExceptionHandler->render(Object(Error), 500, 'C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\kasir-wp\system\Debug\Exceptions.php(148): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#8 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 C:\xampp\htdocs\kasir-wp\public\index.php(67): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\Helpers\number_helper.php on line 136.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-01-04 11:30:43 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 218.
+ 1 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-01-04 11:30:45 --> Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\kasir-wp\system\Helpers\number_helper.php:136
+Stack trace:
+#0 C:\xampp\htdocs\kasir-wp\system\Helpers\number_helper.php(55): format_number(6.0, 2, NULL, Array)
+#1 C:\xampp\htdocs\kasir-wp\system\Debug\BaseExceptionHandler.php(145): number_to_size(6.0, 2)
+#2 C:\xampp\htdocs\kasir-wp\app\Views\errors\html\error_exception.php(361): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 C:\xampp\htdocs\kasir-wp\system\Debug\BaseExceptionHandler.php(241): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\kasir-wp\system\Debug\BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 C:\xampp\htdocs\kasir-wp\system\Debug\ExceptionHandler.php(112): CodeIgniter\Debug\BaseExceptionHandler->render(Object(Error), 500, 'C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\kasir-wp\system\Debug\Exceptions.php(148): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#8 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 C:\xampp\htdocs\kasir-wp\public\index.php(67): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\Helpers\number_helper.php on line 136.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-01-04 11:47:34 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 218.
+ 1 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-01-04 11:47:34 --> Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\kasir-wp\system\Helpers\number_helper.php:136
+Stack trace:
+#0 C:\xampp\htdocs\kasir-wp\system\Helpers\number_helper.php(55): format_number(6.0, 2, NULL, Array)
+#1 C:\xampp\htdocs\kasir-wp\system\Debug\BaseExceptionHandler.php(145): number_to_size(6.0, 2)
+#2 C:\xampp\htdocs\kasir-wp\app\Views\errors\html\error_exception.php(361): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 C:\xampp\htdocs\kasir-wp\system\Debug\BaseExceptionHandler.php(241): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\kasir-wp\system\Debug\BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 C:\xampp\htdocs\kasir-wp\system\Debug\ExceptionHandler.php(112): CodeIgniter\Debug\BaseExceptionHandler->render(Object(Error), 500, 'C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\kasir-wp\system\Debug\Exceptions.php(148): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#8 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 C:\xampp\htdocs\kasir-wp\public\index.php(67): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\Helpers\number_helper.php on line 136.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2024-01-04 11:48:22 --> Class "Locale" not found
+in SYSTEMPATH\CodeIgniter.php on line 218.
+ 1 FCPATH\index.php(67): CodeIgniter\CodeIgniter->initialize()
+CRITICAL - 2024-01-04 11:48:22 --> Uncaught Error: Class "Locale" not found in C:\xampp\htdocs\kasir-wp\system\Helpers\number_helper.php:136
+Stack trace:
+#0 C:\xampp\htdocs\kasir-wp\system\Helpers\number_helper.php(55): format_number(6.0, 2, NULL, Array)
+#1 C:\xampp\htdocs\kasir-wp\system\Debug\BaseExceptionHandler.php(145): number_to_size(6.0, 2)
+#2 C:\xampp\htdocs\kasir-wp\app\Views\errors\html\error_exception.php(361): CodeIgniter\Debug\BaseExceptionHandler::describeMemory(6291456)
+#3 C:\xampp\htdocs\kasir-wp\system\Debug\BaseExceptionHandler.php(241): include('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\kasir-wp\system\Debug\BaseExceptionHandler.php(244): CodeIgniter\Debug\BaseExceptionHandler->CodeIgniter\Debug\{closure}()
+#5 C:\xampp\htdocs\kasir-wp\system\Debug\ExceptionHandler.php(112): CodeIgniter\Debug\BaseExceptionHandler->render(Object(Error), 500, 'C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\kasir-wp\system\Debug\Exceptions.php(148): CodeIgniter\Debug\ExceptionHandler->handle(Object(Error), Object(CodeIgniter\HTTP\IncomingRequest), Object(CodeIgniter\HTTP\Response), 500, 1)
+#7 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler(Object(Error))
+#8 {main}
+  thrown
+【Previous Exception】
+Error
+Class "Locale" not found
+#0 C:\xampp\htdocs\kasir-wp\public\index.php(67): CodeIgniter\CodeIgniter->initialize()
+#1 {main}
+in SYSTEMPATH\Helpers\number_helper.php on line 136.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+INFO - 2024-01-04 17:51:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 17:51:05 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 17:51:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 17:51:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-04 17:51:15 --> mysqli_sql_exception: Table 'db-kasir.tbl_user' doesn't exist in engine in C:\xampp\htdocs\kasir-wp\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\kasir-wp\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\kasir-wp\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\kasir-wp\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\kasir-wp\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\kasir-wp\app\Models\ModelUser.php(41): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\kasir-wp\app\Controllers\Home.php(41): App\Models\ModelUser->LoginUser('admin@gmail.com', '40bd001563085fc...')
+#6 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(942): App\Controllers\Home->CekLogin()
+#7 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\kasir-wp\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-01-04 17:51:15 --> Table 'db-kasir.tbl_user' doesn't exist in engine
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_user`
+WHERE `email` = :email:
+AND `password` = :password:', [...], false)
+ 2 APPPATH\Models\ModelUser.php(41): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Home.php(41): App\Models\ModelUser->LoginUser('admin@gmail.com', '40bd001563085fc35165329ea1ff5c5ecbdbbeef')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->CekLogin()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-04 17:51:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 17:51:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 17:51:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-04 17:51:39 --> mysqli_sql_exception: Table 'db-kasir.tbl_user' doesn't exist in engine in C:\xampp\htdocs\kasir-wp\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\kasir-wp\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\kasir-wp\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\kasir-wp\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\kasir-wp\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\kasir-wp\app\Models\ModelUser.php(41): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\kasir-wp\app\Controllers\Home.php(41): App\Models\ModelUser->LoginUser('kasir@gmail.com', '011c945f30ce2cb...')
+#6 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(942): App\Controllers\Home->CekLogin()
+#7 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\kasir-wp\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-01-04 17:51:39 --> Table 'db-kasir.tbl_user' doesn't exist in engine
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_user`
+WHERE `email` = :email:
+AND `password` = :password:', [...], false)
+ 2 APPPATH\Models\ModelUser.php(41): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Home.php(41): App\Models\ModelUser->LoginUser('kasir@gmail.com', '011c945f30ce2cbafc452f39840f025693339c42')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->CekLogin()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-04 17:56:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 17:56:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 17:56:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 17:56:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 17:56:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-04 17:56:19 --> mysqli_sql_exception: Table 'db-kasir.tbl_user' doesn't exist in engine in C:\xampp\htdocs\kasir-wp\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\kasir-wp\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\kasir-wp\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\kasir-wp\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\kasir-wp\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\kasir-wp\app\Models\ModelUser.php(41): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\kasir-wp\app\Controllers\Home.php(41): App\Models\ModelUser->LoginUser('admin@gmail.com', '40bd001563085fc...')
+#6 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(942): App\Controllers\Home->CekLogin()
+#7 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\kasir-wp\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-01-04 17:56:19 --> Table 'db-kasir.tbl_user' doesn't exist in engine
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_user`
+WHERE `email` = :email:
+AND `password` = :password:', [...], false)
+ 2 APPPATH\Models\ModelUser.php(41): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Home.php(41): App\Models\ModelUser->LoginUser('admin@gmail.com', '40bd001563085fc35165329ea1ff5c5ecbdbbeef')
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Home->CekLogin()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-04 18:17:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:17:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:17:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:17:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:17:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:17:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:17:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:17:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:18:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:18:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:18:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:18:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:18:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:18:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:18:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:18:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:18:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:18:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-04 18:18:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:18:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:18:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:19:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:19:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:19:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:19:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:20:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:20:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:20:31 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:20:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:21:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:21:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:21:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:21:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:21:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:21:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-04 18:21:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:21:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:21:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:24:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:24:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:24:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$ModelUser is deprecated in APPPATH\Controllers\Home.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Home->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:24:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2024-01-04 18:24:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:24:52 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-04 18:24:52 --> mysqli_sql_exception: Unknown column 'tbl_rinci_jual.untung' in 'field list' in C:\xampp\htdocs\kasir-wp\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\kasir-wp\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT `tbl_jua...', 0)
+#1 C:\xampp\htdocs\kasir-wp\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT `tbl_jua...')
+#2 C:\xampp\htdocs\kasir-wp\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT `tbl_jua...')
+#3 C:\xampp\htdocs\kasir-wp\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `tbl_jua...', Array, false)
+#4 C:\xampp\htdocs\kasir-wp\app\Models\ModelAdmin.php(34): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\kasir-wp\app\Controllers\Admin.php(23): App\Models\ModelAdmin->Grafik()
+#6 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(942): App\Controllers\Admin->index()
+#7 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\kasir-wp\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-01-04 18:24:53 --> Unknown column 'tbl_rinci_jual.untung' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT `tbl_jual`.`tgl_jual`, SUM(`tbl_rinci_jual`.`total_harga`) AS `total_harga`, SUM(`tbl_rinci_jual`.`untung`) AS `untung`
+FROM `tbl_rinci_jual`
+JOIN `tbl_jual` ON `tbl_jual`.`no_faktur`=`tbl_rinci_jual`.`no_faktur`
+WHERE month(tbl_jual.tgl_jual) = :month(tbl_jual.tgl_jual):
+AND year(tbl_jual.tgl_jual) = :year(tbl_jual.tgl_jual):
+GROUP BY `tbl_jual`.`tgl_jual`', [...], false)
+ 2 APPPATH\Models\ModelAdmin.php(34): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Admin.php(23): App\Models\ModelAdmin->Grafik()
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:26:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:26:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-04 18:26:53 --> Trying to access array offset on value of type null
+in APPPATH\Views\v_admin.php on line 70.
+ 1 APPPATH\Views\v_admin.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_admin.php', 70)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_admin.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_admin', [], true)
+ 5 APPPATH\Views\v_template.php(262): view('v_admin')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Admin.php(32): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:29:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:29:58 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-04 18:29:58 --> Trying to access array offset on value of type null
+in APPPATH\Views\v_admin.php on line 69.
+ 1 APPPATH\Views\v_admin.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_admin.php', 69)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_admin.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_admin', [], true)
+ 5 APPPATH\Views\v_template.php(262): view('v_admin')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Admin.php(32): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:30:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:30:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:30:17 --> Cart Class Initialized
+ERROR - 2024-01-04 18:30:17 --> mysqli_sql_exception: Unknown column 'tbl_produk.id_kategori' in 'on clause' in C:\xampp\htdocs\kasir-wp\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\kasir-wp\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\kasir-wp\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\kasir-wp\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\kasir-wp\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\kasir-wp\app\Models\ModelPenjualan.php(40): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\kasir-wp\app\Controllers\Penjualan.php(24): App\Models\ModelPenjualan->AllProduk()
+#6 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(942): App\Controllers\Penjualan->index()
+#7 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#8 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\kasir-wp\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-01-04 18:30:17 --> Unknown column 'tbl_produk.id_kategori' in 'on clause'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_produk`
+JOIN `tbl_kategori` ON `tbl_kategori`.`id_kategori`=`tbl_produk`.`id_kategori`
+JOIN `tbl_satuan` ON `tbl_satuan`.`id_satuan`=`tbl_produk`.`id_satuan`
+WHERE `stok` >0', [], false)
+ 2 APPPATH\Models\ModelPenjualan.php(40): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Penjualan.php(24): App\Models\ModelPenjualan->AllProduk()
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Penjualan->index()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:33:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:33:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:33:00 --> Cart Class Initialized
+INFO - 2024-01-04 18:33:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:33:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:33:34 --> Cart Class Initialized
+INFO - 2024-01-04 18:34:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:34:09 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-04 18:34:09 --> Trying to access array offset on value of type null
+in APPPATH\Views\v_admin.php on line 70.
+ 1 APPPATH\Views\v_admin.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_admin.php', 70)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_admin.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_admin', [], true)
+ 5 APPPATH\Views\v_template.php(262): view('v_admin')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Admin.php(32): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:34:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:34:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-04 18:34:30 --> Trying to access array offset on value of type null
+in APPPATH\Views\v_admin.php on line 69.
+ 1 APPPATH\Views\v_admin.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_admin.php', 69)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_admin.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_admin', [], true)
+ 5 APPPATH\Views\v_template.php(262): view('v_admin')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Admin.php(32): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:35:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:35:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:35:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:35:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelProduk is deprecated in APPPATH\Controllers\Produk.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-04 18:35:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelKategori is deprecated in APPPATH\Controllers\Produk.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-04 18:35:50 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelSatuan is deprecated in APPPATH\Controllers\Produk.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:36:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:36:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:36:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:36:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:36:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:36:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Kategori::$ModelKategori is deprecated in APPPATH\Controllers\Kategori.php on line 11.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Kategori->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:36:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:36:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\Satuan::$ModelSatuan is deprecated in APPPATH\Controllers\Satuan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Satuan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:36:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:36:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Satuan::$ModelSatuan is deprecated in APPPATH\Controllers\Satuan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Satuan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:36:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:36:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Satuan::$ModelSatuan is deprecated in APPPATH\Controllers\Satuan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Satuan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:36:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:36:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelProduk is deprecated in APPPATH\Controllers\Produk.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-04 18:36:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelKategori is deprecated in APPPATH\Controllers\Produk.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-04 18:36:32 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelSatuan is deprecated in APPPATH\Controllers\Produk.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:37:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:37:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelProduk is deprecated in APPPATH\Controllers\Produk.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-04 18:37:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelKategori is deprecated in APPPATH\Controllers\Produk.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-04 18:37:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelSatuan is deprecated in APPPATH\Controllers\Produk.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:37:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:37:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelProduk is deprecated in APPPATH\Controllers\Produk.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-04 18:37:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelKategori is deprecated in APPPATH\Controllers\Produk.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-04 18:37:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelSatuan is deprecated in APPPATH\Controllers\Produk.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:37:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:37:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:37:25 --> Cart Class Initialized
+INFO - 2024-01-04 18:37:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:37:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:37:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:37:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:37:46 --> Cart Class Initialized
+INFO - 2024-01-04 18:37:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:37:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:37:46 --> Cart Class Initialized
+INFO - 2024-01-04 18:37:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:37:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:37:54 --> Cart Class Initialized
+ERROR - 2024-01-04 18:37:54 --> mysqli_sql_exception: Unknown column 'harga' in 'field list' in C:\xampp\htdocs\kasir-wp\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\kasir-wp\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\kasir-wp\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\kasir-wp\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\kasir-wp\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\kasir-wp\app\Models\ModelPenjualan.php(51): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\kasir-wp\app\Controllers\Penjualan.php(110): App\Models\ModelPenjualan->InsertRinciJual(Array)
+#6 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(942): App\Controllers\Penjualan->SimpanTransaksi()
+#7 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#8 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\kasir-wp\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-01-04 18:37:54 --> Unknown column 'harga' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga`, `modal`, `qty`, `total_harga`, `untung`) VALUES (:no_faktur:, :kode_produk:, :harga:, :modal:, :qty:, :total_harga:, :untung:)', [...], false)
+ 2 APPPATH\Models\ModelPenjualan.php(51): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Penjualan.php(110): App\Models\ModelPenjualan->InsertRinciJual([...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Penjualan->SimpanTransaksi()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:42:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:42:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:42:00 --> Cart Class Initialized
+ERROR - 2024-01-04 18:42:00 --> mysqli_sql_exception: Unknown column 'modal' in 'field list' in C:\xampp\htdocs\kasir-wp\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\kasir-wp\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\kasir-wp\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\kasir-wp\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\kasir-wp\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\kasir-wp\app\Models\ModelPenjualan.php(51): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\kasir-wp\app\Controllers\Penjualan.php(110): App\Models\ModelPenjualan->InsertRinciJual(Array)
+#6 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(942): App\Controllers\Penjualan->SimpanTransaksi()
+#7 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#8 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\kasir-wp\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-01-04 18:42:00 --> Unknown column 'modal' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga`, `modal`, `qty`, `total_harga`, `untung`) VALUES (:no_faktur:, :kode_produk:, :harga:, :modal:, :qty:, :total_harga:, :untung:)', [...], false)
+ 2 APPPATH\Models\ModelPenjualan.php(51): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Penjualan.php(110): App\Models\ModelPenjualan->InsertRinciJual([...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Penjualan->SimpanTransaksi()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:42:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:42:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:42:40 --> Cart Class Initialized
+ERROR - 2024-01-04 18:42:40 --> mysqli_sql_exception: Unknown column 'harga' in 'field list' in C:\xampp\htdocs\kasir-wp\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\kasir-wp\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\kasir-wp\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\kasir-wp\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\kasir-wp\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\kasir-wp\app\Models\ModelPenjualan.php(51): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\kasir-wp\app\Controllers\Penjualan.php(110): App\Models\ModelPenjualan->InsertRinciJual(Array)
+#6 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(942): App\Controllers\Penjualan->SimpanTransaksi()
+#7 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#8 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\kasir-wp\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-01-04 18:42:40 --> Unknown column 'harga' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga`, `modal`, `qty`, `total_harga`, `untung`) VALUES (:no_faktur:, :kode_produk:, :harga:, :modal:, :qty:, :total_harga:, :untung:)', [...], false)
+ 2 APPPATH\Models\ModelPenjualan.php(51): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Penjualan.php(110): App\Models\ModelPenjualan->InsertRinciJual([...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Penjualan->SimpanTransaksi()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:48:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:48:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:48:46 --> Cart Class Initialized
+ERROR - 2024-01-04 18:48:46 --> mysqli_sql_exception: Unknown column 'harga' in 'field list' in C:\xampp\htdocs\kasir-wp\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\kasir-wp\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\kasir-wp\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\kasir-wp\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\kasir-wp\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\kasir-wp\app\Models\ModelPenjualan.php(51): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\kasir-wp\app\Controllers\Penjualan.php(110): App\Models\ModelPenjualan->InsertRinciJual(Array)
+#6 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(942): App\Controllers\Penjualan->SimpanTransaksi()
+#7 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#8 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\kasir-wp\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-01-04 18:48:46 --> Unknown column 'harga' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga`, `modal`, `qty`, `total_harga`, `untung`) VALUES (:no_faktur:, :kode_produk:, :harga:, :modal:, :qty:, :total_harga:, :untung:)', [...], false)
+ 2 APPPATH\Models\ModelPenjualan.php(51): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Penjualan.php(110): App\Models\ModelPenjualan->InsertRinciJual([...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Penjualan->SimpanTransaksi()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:49:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:49:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:49:30 --> Cart Class Initialized
+ERROR - 2024-01-04 18:49:30 --> mysqli_sql_exception: Unknown column 'modal' in 'field list' in C:\xampp\htdocs\kasir-wp\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\kasir-wp\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\kasir-wp\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\kasir-wp\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\kasir-wp\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\kasir-wp\app\Models\ModelPenjualan.php(51): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\kasir-wp\app\Controllers\Penjualan.php(110): App\Models\ModelPenjualan->InsertRinciJual(Array)
+#6 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(942): App\Controllers\Penjualan->SimpanTransaksi()
+#7 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#8 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\kasir-wp\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-01-04 18:49:30 --> Unknown column 'modal' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga`, `modal`, `qty`, `total_harga`, `untung`) VALUES (:no_faktur:, :kode_produk:, :harga:, :modal:, :qty:, :total_harga:, :untung:)', [...], false)
+ 2 APPPATH\Models\ModelPenjualan.php(51): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Penjualan.php(110): App\Models\ModelPenjualan->InsertRinciJual([...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Penjualan->SimpanTransaksi()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:54:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:54:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:54:07 --> Cart Class Initialized
+INFO - 2024-01-04 18:54:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:54:44 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:54:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:54:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:54:45 --> Cart Class Initialized
+INFO - 2024-01-04 18:54:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:54:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:54:46 --> Cart Class Initialized
+INFO - 2024-01-04 18:54:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:54:55 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:54:55 --> Cart Class Initialized
+ERROR - 2024-01-04 18:54:55 --> mysqli_sql_exception: Unknown column 'harga' in 'field list' in C:\xampp\htdocs\kasir-wp\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\kasir-wp\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\kasir-wp\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\kasir-wp\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\kasir-wp\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\kasir-wp\app\Models\ModelPenjualan.php(51): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\kasir-wp\app\Controllers\Penjualan.php(110): App\Models\ModelPenjualan->InsertRinciJual(Array)
+#6 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(942): App\Controllers\Penjualan->SimpanTransaksi()
+#7 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#8 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\kasir-wp\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-01-04 18:54:55 --> Unknown column 'harga' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga`, `modal`, `qty`, `total_harga`, `untung`) VALUES (:no_faktur:, :kode_produk:, :harga:, :modal:, :qty:, :total_harga:, :untung:)', [...], false)
+ 2 APPPATH\Models\ModelPenjualan.php(51): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Penjualan.php(110): App\Models\ModelPenjualan->InsertRinciJual([...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Penjualan->SimpanTransaksi()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:55:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:55:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:55:36 --> Cart Class Initialized
+INFO - 2024-01-04 18:56:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:56:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-04 18:56:12 --> Trying to access array offset on value of type null
+in APPPATH\Views\v_admin.php on line 70.
+ 1 APPPATH\Views\v_admin.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_admin.php', 70)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_admin.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_admin', [], true)
+ 5 APPPATH\Views\v_template.php(262): view('v_admin')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Admin.php(32): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:56:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:56:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:56:25 --> Cart Class Initialized
+INFO - 2024-01-04 18:56:49 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:56:49 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-04 18:56:49 --> Trying to access array offset on value of type null
+in APPPATH\Views\v_admin.php on line 71.
+ 1 APPPATH\Views\v_admin.php(71): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_admin.php', 71)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_admin.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_admin', [], true)
+ 5 APPPATH\Views\v_template.php(262): view('v_admin')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Admin.php(32): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:57:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:57:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:57:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:57:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelProduk is deprecated in APPPATH\Controllers\Produk.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-04 18:57:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelKategori is deprecated in APPPATH\Controllers\Produk.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-04 18:57:34 --> [DEPRECATED] Creation of dynamic property App\Controllers\Produk::$ModelSatuan is deprecated in APPPATH\Controllers\Produk.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Produk->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:57:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:57:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\User::$ModelUser is deprecated in APPPATH\Controllers\User.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\User->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:57:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:57:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\User::$ModelUser is deprecated in APPPATH\Controllers\User.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\User->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:57:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:57:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\User::$ModelUser is deprecated in APPPATH\Controllers\User.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\User->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:57:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:58:00 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-04 18:58:00 --> mysqli_sql_exception: Table 'db-kasir.tbl_setting' doesn't exist in C:\xampp\htdocs\kasir-wp\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\kasir-wp\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\kasir-wp\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\kasir-wp\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\kasir-wp\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\kasir-wp\app\Models\ModelAdmin.php(13): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\kasir-wp\app\Controllers\Admin.php(44): App\Models\ModelAdmin->DetailData()
+#6 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(942): App\Controllers\Admin->Setting()
+#7 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\kasir-wp\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-01-04 18:58:00 --> Table 'db-kasir.tbl_setting' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_setting`
+WHERE `id` = :id:', [...], false)
+ 2 APPPATH\Models\ModelAdmin.php(13): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Admin.php(44): App\Models\ModelAdmin->DetailData()
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->Setting()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:58:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:58:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\User::$ModelUser is deprecated in APPPATH\Controllers\User.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\User->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:58:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:58:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelProduk is deprecated in APPPATH\Controllers\Laporan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-04 18:58:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelAdmin is deprecated in APPPATH\Controllers\Laporan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-04 18:58:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelLaporan is deprecated in APPPATH\Controllers\Laporan.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-04 18:58:19 --> mysqli_sql_exception: Table 'db-kasir.tbl_setting' doesn't exist in C:\xampp\htdocs\kasir-wp\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\kasir-wp\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\kasir-wp\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\kasir-wp\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\kasir-wp\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\kasir-wp\app\Models\ModelAdmin.php(13): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\kasir-wp\app\Controllers\Laporan.php(38): App\Models\ModelAdmin->DetailData()
+#6 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(942): App\Controllers\Laporan->LaporanHarian()
+#7 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#8 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\kasir-wp\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-01-04 18:58:19 --> Table 'db-kasir.tbl_setting' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_setting`
+WHERE `id` = :id:', [...], false)
+ 2 APPPATH\Models\ModelAdmin.php(13): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Laporan.php(38): App\Models\ModelAdmin->DetailData()
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->LaporanHarian()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:58:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:58:23 --> [DEPRECATED] Creation of dynamic property App\Controllers\User::$ModelUser is deprecated in APPPATH\Controllers\User.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\User->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 18:58:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 18:58:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:03:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:03:21 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-04 19:03:21 --> mysqli_sql_exception: Table 'db-kasir.tbl_setting' doesn't exist in C:\xampp\htdocs\kasir-wp\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\kasir-wp\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\kasir-wp\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\kasir-wp\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\kasir-wp\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\kasir-wp\app\Models\ModelAdmin.php(13): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\kasir-wp\app\Controllers\Admin.php(44): App\Models\ModelAdmin->DetailData()
+#6 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(942): App\Controllers\Admin->Setting()
+#7 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+#8 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\kasir-wp\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-01-04 19:03:21 --> Table 'db-kasir.tbl_setting' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_setting`
+WHERE `id` = :id:', [...], false)
+ 2 APPPATH\Models\ModelAdmin.php(13): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Admin.php(44): App\Models\ModelAdmin->DetailData()
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->Setting()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:03:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:03:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:07:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:07:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:07:11 --> Cart Class Initialized
+INFO - 2024-01-04 19:07:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:07:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:07:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:07:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:07:18 --> Cart Class Initialized
+INFO - 2024-01-04 19:07:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:07:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:07:18 --> Cart Class Initialized
+INFO - 2024-01-04 19:07:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:07:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:07:25 --> Cart Class Initialized
+ERROR - 2024-01-04 19:07:25 --> mysqli_sql_exception: Unknown column 'modal' in 'field list' in C:\xampp\htdocs\kasir-wp\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\kasir-wp\system\Database\MySQLi\Connection.php(306): mysqli->query('INSERT INTO `tb...', 0)
+#1 C:\xampp\htdocs\kasir-wp\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('INSERT INTO `tb...')
+#2 C:\xampp\htdocs\kasir-wp\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO `tb...')
+#3 C:\xampp\htdocs\kasir-wp\system\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tb...', Array, false)
+#4 C:\xampp\htdocs\kasir-wp\app\Models\ModelPenjualan.php(51): CodeIgniter\Database\BaseBuilder->insert(Array)
+#5 C:\xampp\htdocs\kasir-wp\app\Controllers\Penjualan.php(110): App\Models\ModelPenjualan->InsertRinciJual(Array)
+#6 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(942): App\Controllers\Penjualan->SimpanTransaksi()
+#7 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+#8 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\kasir-wp\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-01-04 19:07:25 --> Unknown column 'modal' in 'field list'
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2308): CodeIgniter\Database\BaseConnection->query('INSERT INTO `tbl_rinci_jual` (`no_faktur`, `kode_produk`, `harga`, `modal`, `qty`, `total_harga`, `untung`) VALUES (:no_faktur:, :kode_produk:, :harga:, :modal:, :qty:, :total_harga:, :untung:)', [...], false)
+ 2 APPPATH\Models\ModelPenjualan.php(51): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 APPPATH\Controllers\Penjualan.php(110): App\Models\ModelPenjualan->InsertRinciJual([...])
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Penjualan->SimpanTransaksi()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Penjualan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:08:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:08:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:08:51 --> Cart Class Initialized
+INFO - 2024-01-04 19:08:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:08:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:08:51 --> Cart Class Initialized
+INFO - 2024-01-04 19:09:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:09:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-04 19:09:13 --> Trying to access array offset on value of type null
+in APPPATH\Views\v_admin.php on line 70.
+ 1 APPPATH\Views\v_admin.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_admin.php', 70)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_admin.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_admin', [], true)
+ 5 APPPATH\Views\v_template.php(262): view('v_admin')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Admin.php(32): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:09:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:09:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-04 19:09:15 --> Trying to access array offset on value of type null
+in APPPATH\Views\v_admin.php on line 70.
+ 1 APPPATH\Views\v_admin.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_admin.php', 70)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_admin.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_admin', [], true)
+ 5 APPPATH\Views\v_template.php(262): view('v_admin')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Admin.php(32): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:10:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:10:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-04 19:10:34 --> Trying to access array offset on value of type null
+in APPPATH\Views\v_admin.php on line 69.
+ 1 APPPATH\Views\v_admin.php(69): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_admin.php', 69)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_admin.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_admin', [], true)
+ 5 APPPATH\Views\v_template.php(262): view('v_admin')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Admin.php(32): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:11:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:11:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:13:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:13:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelProduk is deprecated in APPPATH\Controllers\Laporan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-04 19:13:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelAdmin is deprecated in APPPATH\Controllers\Laporan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-04 19:13:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelLaporan is deprecated in APPPATH\Controllers\Laporan.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2024-01-04 19:13:53 --> mysqli_sql_exception: Table 'db-kasir.tbl_setting' doesn't exist in C:\xampp\htdocs\kasir-wp\system\Database\MySQLi\Connection.php:306
+Stack trace:
+#0 C:\xampp\htdocs\kasir-wp\system\Database\MySQLi\Connection.php(306): mysqli->query('SELECT *\nFROM `...', 0)
+#1 C:\xampp\htdocs\kasir-wp\system\Database\BaseConnection.php(693): CodeIgniter\Database\MySQLi\Connection->execute('SELECT *\nFROM `...')
+#2 C:\xampp\htdocs\kasir-wp\system\Database\BaseConnection.php(607): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT *\nFROM `...')
+#3 C:\xampp\htdocs\kasir-wp\system\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *\nFROM `...', Array, false)
+#4 C:\xampp\htdocs\kasir-wp\app\Models\ModelAdmin.php(13): CodeIgniter\Database\BaseBuilder->get()
+#5 C:\xampp\htdocs\kasir-wp\app\Controllers\Laporan.php(38): App\Models\ModelAdmin->DetailData()
+#6 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(942): App\Controllers\Laporan->LaporanHarian()
+#7 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+#8 C:\xampp\htdocs\kasir-wp\system\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\kasir-wp\public\index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2024-01-04 19:13:53 --> Table 'db-kasir.tbl_setting' doesn't exist
+in SYSTEMPATH\Database\BaseConnection.php on line 647.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1615): CodeIgniter\Database\BaseConnection->query('SELECT *
+FROM `tbl_setting`
+WHERE `id` = :id:', [...], false)
+ 2 APPPATH\Models\ModelAdmin.php(13): CodeIgniter\Database\BaseBuilder->get()
+ 3 APPPATH\Controllers\Laporan.php(38): App\Models\ModelAdmin->DetailData()
+ 4 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Laporan->LaporanHarian()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Laporan))
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:35:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:35:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelProduk is deprecated in APPPATH\Controllers\Laporan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-04 19:35:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelAdmin is deprecated in APPPATH\Controllers\Laporan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-04 19:35:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelLaporan is deprecated in APPPATH\Controllers\Laporan.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:35:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:35:41 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-04 19:35:41 --> Trying to access array offset on value of type null
+in APPPATH\Views\v_setting.php on line 28.
+ 1 APPPATH\Views\v_setting.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_setting.php', 28)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_setting.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_setting', [], true)
+ 5 APPPATH\Views\v_template.php(262): view('v_setting')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Admin.php(46): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->Setting()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:53:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:53:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:54:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:54:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelProduk is deprecated in APPPATH\Controllers\Laporan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-04 19:54:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelAdmin is deprecated in APPPATH\Controllers\Laporan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-04 19:54:08 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelLaporan is deprecated in APPPATH\Controllers\Laporan.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:54:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:54:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelProduk is deprecated in APPPATH\Controllers\Laporan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-04 19:54:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelAdmin is deprecated in APPPATH\Controllers\Laporan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-04 19:54:10 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelLaporan is deprecated in APPPATH\Controllers\Laporan.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:54:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:54:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelProduk is deprecated in APPPATH\Controllers\Laporan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-04 19:54:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelAdmin is deprecated in APPPATH\Controllers\Laporan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-04 19:54:12 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelLaporan is deprecated in APPPATH\Controllers\Laporan.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:54:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:54:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\User::$ModelUser is deprecated in APPPATH\Controllers\User.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\User->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:54:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:54:20 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:54:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:54:28 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:54:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:54:29 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:54:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:54:35 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:54:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:54:46 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-04 19:54:46 --> Trying to access array offset on value of type null
+in APPPATH\Views\v_admin.php on line 70.
+ 1 APPPATH\Views\v_admin.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_admin.php', 70)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_admin.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_admin', [], true)
+ 5 APPPATH\Views\v_template.php(262): view('v_admin')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Admin.php(32): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:55:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:55:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-04 19:55:40 --> Trying to access array offset on value of type null
+in APPPATH\Views\v_admin.php on line 70.
+ 1 APPPATH\Views\v_admin.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_admin.php', 70)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_admin.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_admin', [], true)
+ 5 APPPATH\Views\v_template.php(262): view('v_admin')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Admin.php(32): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:55:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:55:42 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:55:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:55:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:55:45 --> Cart Class Initialized
+INFO - 2024-01-04 19:55:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:55:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:55:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:55:56 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:55:56 --> Cart Class Initialized
+INFO - 2024-01-04 19:55:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:55:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:55:57 --> Cart Class Initialized
+INFO - 2024-01-04 19:56:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:56:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:56:07 --> Cart Class Initialized
+INFO - 2024-01-04 19:56:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:56:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:56:07 --> Cart Class Initialized
+INFO - 2024-01-04 19:56:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:56:17 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-01-04 19:56:17 --> Trying to access array offset on value of type null
+in APPPATH\Views\v_admin.php on line 70.
+ 1 APPPATH\Views\v_admin.php(70): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Trying to access array offset on value of type null', 'C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_admin.php', 70)
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_admin.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_admin', [], true)
+ 5 APPPATH\Views\v_template.php(262): view('v_admin')
+ 6 SYSTEMPATH\View\View.php(228): include('C:\\xampp\\htdocs\\kasir-wp\\app\\Views\\v_template.php')
+ 7 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 8 SYSTEMPATH\Common.php(1190): CodeIgniter\View\View->render('v_template', [], true)
+ 9 APPPATH\Controllers\Admin.php(32): view('v_template', [...])
+10 SYSTEMPATH\CodeIgniter.php(942): App\Controllers\Admin->index()
+11 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Admin))
+12 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+13 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:56:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:56:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:56:43 --> Cart Class Initialized
+INFO - 2024-01-04 19:57:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:57:24 --> [DEPRECATED] Creation of dynamic property App\Controllers\Penjualan::$ModelPenjualan is deprecated in APPPATH\Controllers\Penjualan.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Penjualan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:57:24 --> Cart Class Initialized
+INFO - 2024-01-04 19:57:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:57:26 --> [DEPRECATED] Creation of dynamic property App\Controllers\Admin::$ModelAdmin is deprecated in APPPATH\Controllers\Admin.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Admin->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:57:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:57:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelProduk is deprecated in APPPATH\Controllers\Laporan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-04 19:57:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelAdmin is deprecated in APPPATH\Controllers\Laporan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-04 19:57:30 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelLaporan is deprecated in APPPATH\Controllers\Laporan.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2024-01-04 19:57:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+WARNING - 2024-01-04 19:57:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelProduk is deprecated in APPPATH\Controllers\Laporan.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-04 19:57:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelAdmin is deprecated in APPPATH\Controllers\Laporan.php on line 15.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+WARNING - 2024-01-04 19:57:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Laporan::$ModelLaporan is deprecated in APPPATH\Controllers\Laporan.php on line 16.
+ 1 SYSTEMPATH\CodeIgniter.php(914): App\Controllers\Laporan->__construct()
+ 2 SYSTEMPATH\CodeIgniter.php(493): CodeIgniter\CodeIgniter->createController()
+ 3 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
